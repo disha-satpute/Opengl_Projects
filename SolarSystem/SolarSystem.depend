@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731336006 source:d:\mit aoe\opengl\solarsystem\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<vector>
+	<cstdlib>
+
